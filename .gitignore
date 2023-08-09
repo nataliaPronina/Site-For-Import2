@@ -4,6 +4,4 @@ tmp/
 
 *_backup
 
-SITE FOR IMPORT/IMG/Thumbs.db
-
-SITE FOR IMPORT/IMG/.DS_Store
+private/
